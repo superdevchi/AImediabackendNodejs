@@ -22,7 +22,7 @@
 ## 🎬 Demo / Docs
 
 - **Product Demo (Frontend):** _add your video link here_  
-- **Client App (SwiftUI) Repo:** _add link if separate_  
+- **Client App (SwiftUI) Repo:**  https://github.com/superdevchi/AImedia 
 - **This Backend:** you’re here
 
 > The video should show: Supabase login → create AI job → review assets → schedule/publish → view history.
@@ -168,7 +168,7 @@
 
 ## 🔗 Links
 
-- **Frontend (Swift/SwiftUI):** _add link here_  
+- **Frontend (Swift/SwiftUI):** https://github.com/superdevchi/AImedia 
 - **Demo Video:** _add link here_
 
 ---
