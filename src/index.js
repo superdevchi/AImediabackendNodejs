@@ -19,7 +19,7 @@ import crypto from "crypto";
 
 const ai = new OpenAI({
 
-    apiKey: "xai-4fVkQMRvt0CL9ftTYOOEK9VrihSGDGUj7q37i14rworjAoNB3AKbifggB26bPLuNDE2efUSxKZ1y5Cyh",
+    apiKey: "",
     baseURL: 'https://api.x.ai/v1'
 })
 
